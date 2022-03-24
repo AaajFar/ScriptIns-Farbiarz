@@ -1,0 +1,13 @@
+id;cliente;direccion;localidad;provincia
+1;1;Av Eva Peron 2155;CABA;Buenos Aires
+2;1;Av 25 de Mayo 522;San Rafael;Mendoza
+3;2;Av Jujuy 5221;Resistencia;Chaco
+4;2;Av 9 de Julio 521;Rosario;Santa Fe
+5;2;Carlos Casares 422;Villa Maria;Cordoba
+6;3;Gral Cesar Diaz 5524;CABA;Buenos Aires
+7;4;Ceballos 252;Lujan;Buenos Aires
+8;4;Quitana 5050;Moreno;Buenos Aires
+9;5;Bufano 722;CABA;Buenos Aires
+10;5;Peru 2666;Salta;Salta
+11;5;Av del Campo 526;Rosario;Santa Fe
+12;6;Lima 888;CABA;Buenos Aires

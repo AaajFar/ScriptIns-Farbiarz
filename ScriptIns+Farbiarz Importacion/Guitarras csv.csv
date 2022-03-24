@@ -1,0 +1,21 @@
+id;tipo;modelo;ano;stock;precio
+1;Electrica;Stratocaster;2020;120;45000
+2;Electrica;Stratocaster;2021;300;50000
+3;Electrica;Les Paul;2019;155;60000
+4;Electrica;335;2020;250;60000
+5;Electrica;Stratocaster;2018;88;70000
+6;Electrica;Stratocaster;2019;120;80000
+7;Electroacustica;345;2020;300;35000
+8;Electroacustica;CD80;2019;192;40000
+9;Electroacustica;CE400;2021;400;30000
+10;Electroacustica;CD90;2021;250;60000
+11;Clasica;C40;2020;250;25000
+12;Clasica;C50;2020;208;30000
+13;Clasica;C60;2021;365;40000
+14;Clasica;M5;2020;112;60000
+15;Clasica;M6;2019;55;75000
+16;Clasica;C60LR;2022;488;45000
+17;Clasica Nino;C40M;2020;452;20000
+18;Clasica Nino;C50M;2020;266;30000
+19;Clasica Concierto;C100;2016;40;100000
+20;Clasica Concierto;C102;2018;62;120000

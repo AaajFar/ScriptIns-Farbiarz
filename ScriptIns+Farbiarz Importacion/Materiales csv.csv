@@ -1,0 +1,38 @@
+id;tipo;marca;modelo;descripcion;stock;costo
+NULL;clavijas;MXP;MX218 A;Set x6 para clasica;300;1000
+NULL;clavijas;Shimura;214n;Set x6 para clasica;200;1200
+NULL;clavijas;Shimura;218A;Set x6 para clasica;170;1300
+NULL;clavijas;Fender;099-0818-000;Set x6 para electrica;300;2000
+NULL;clavijas;Fender;099-0820-100;Set x6 para electrica;285;2500
+NULL;clavijas;Gibson;PMMH-025 GOLD;Set x6 para electrica;120;2000
+NULL;clavijas;Gibson;PMMH-030 BLACK;Set x6 para electrica;150;2500
+NULL;clavijas;Yamaha;TM 30;Set x6 para electrica o acustica;400;1500
+NULL;clavijas;Gotoh;1503b-z;Set x6 para electrica;235;2000
+NULL;clavijas;Gotoh;1502c;Set x6 para electrica;345;2500
+NULL;clavijas;Gotoh;1513c;Set x6 para electrica;120;3000
+NULL;microfonos;Ds Pickups;DS10-N-M-B;Set x3 para electrica;200;4000
+NULL;microfonos;Ds Pickups;DS14-N-M-B;Set x3 para electrica;145;4500
+NULL;microfonos;Fender;Tex Mex;Set x3 para electrica;280;5000
+NULL;microfonos;Fender;Vintage Noiseless;Set x3 para electrica;150;6000
+NULL;microfonos;Dimarzio;Rainmaker Dreamcatcher;Set x2 para electrica;320;5500
+NULL;microfonos;Dimarzio;DP227 DP228;Set x2 para electrica;252;5500
+NULL;microfonos;Fishman;Blend 301;Para guitarra acustica;520;2000
+NULL;microfonos;Cherub;GS3;Para guitarra acustica;100;2500
+NULL;microfonos;Dimarzio;Dp136;Para guitarra acustica;80;3500
+NULL;cuerdas;D addario;ez900;Set x6 para acustica .010;200;1000
+NULL;cuerdas;Ernie Ball;Super Slinky;Set x6 para electrica .009;155;1200
+NULL;cuerdas;Fender;150R;Set x6 para electrica .010;322;1100
+NULL;cuerdas;Fender;150L;Set x6 para electrica .009;255;1200
+NULL;cuerdas;Gibson;sag-mb11;Set x6 para acustica .011;120;1250
+NULL;cuerdas;Gibson;seg-700l;Set x6 para electrica .010;522;1350
+NULL;cuerdas;D addario;EJ-30;Set x6 para clasica;800;1000
+NULL;cuerdas;Cantata;630;Set x6 para clasica;677;800
+NULL;maderas;NULL;Alamo;Para guitarra electrica;200;2000
+NULL;maderas;NULL;Ebano;Para guitarra electrica;150;3000
+NULL;maderas;NULL;Pino Abeto;Para guitarra clasica;100;1500
+NULL;maderas;NULL;Cedro Espa¤ol;Para guitarra clasica;250;4000
+NULL;maderas;NULL;Caoba;Para guitarra clasica;92;5000
+NULL;maderas;NULL;Palorosa;Para guitarra electrica;177;5000
+NULL;maderas;NULL;Arce;Para guitarra clasica;389;4500
+NULL;maderas;NULL;Fresno;Para guitarra acustica;155;3500
+NULL;maderas;NULL;Wengue;Para guitarra acustica;255;5000
